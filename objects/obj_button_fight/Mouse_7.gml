@@ -1,0 +1,1 @@
+obj_battle.fight_state = "FIGHT";

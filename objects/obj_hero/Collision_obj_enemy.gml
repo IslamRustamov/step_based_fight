@@ -1,0 +1,1 @@
+obj_room.state = "FADE_IN";

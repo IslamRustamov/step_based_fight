@@ -1,0 +1,2 @@
+// MIGHT BE: NONE, FADE_IN, FADE_OUT
+state = "FADE_OUT"
